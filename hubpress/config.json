@@ -1,7 +1,6 @@
 {
-  "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
+  "meta": {"<MarissaAllen>",
+    "repositoryName": "<MarissaAllen>.github.io",
     "branch": "master"
   },
   "theme": {
