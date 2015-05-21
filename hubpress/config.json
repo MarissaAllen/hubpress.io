@@ -1,9 +1,1 @@
-{
-  "meta": {"username" : "MarissaAllen",
-    "repositoryName": "MarissaAllen.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"MarissaAllen","repositoryName":"MarissaAllen.github.io","branch":"master"},"site":{"title":"Hello! This is what I'm all about!","url":"https://MarissaAllen.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//MarissaAllen.github.io/themes/Casper"}}
