@@ -1,6 +1,3 @@
 = Random Shit 
 
-Hello World! 
-image::http://marissaallen.github.io/images/early-spring-flowers-13.jpg[]
-image::early-spring-flowers-13.jpg[Flowers,600,400,link="http://marissaallen.github.io/images/early-spring-flowers-13.jpg"]
-
+http://marissaallen.github.io/images/early-spring-flowers-13.jpg
