@@ -1,3 +1,4 @@
-= Random Shit 
+= Look! Flowers! 
 
-http://marissaallen.github.io/images/early-spring-flowers-13.jpg
+image::http://marissaallen.github.io/images/early-spring-flowers-13.jpg[]
+
